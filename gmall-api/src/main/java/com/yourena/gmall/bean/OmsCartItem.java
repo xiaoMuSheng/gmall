@@ -6,11 +6,6 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * @author : 熊亚东
- * @description :
- * @date : 2019/7/17 | 8:02
- **/
 @Data public class OmsCartItem implements Serializable {
 
     private String id;

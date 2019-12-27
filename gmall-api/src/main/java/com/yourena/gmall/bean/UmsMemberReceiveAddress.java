@@ -1,6 +1,5 @@
 package com.yourena.gmall.bean;
 
-
 import lombok.Data;
 
 import java.io.Serializable;

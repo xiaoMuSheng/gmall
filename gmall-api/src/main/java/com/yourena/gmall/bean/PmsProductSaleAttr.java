@@ -8,7 +8,6 @@ import java.util.List;
 @Data
 public class PmsProductSaleAttr implements Serializable {
 
-
     private String id;
 
     private String productId;

@@ -9,11 +9,8 @@ import java.util.List;
 public class PmsBaseAttrInfo implements Serializable {
 
     private String id;
-
     private String attrName;
-
     private String catalog3Id;
-
     private String isEnabled;
     private List<PmsBaseAttrValue> pmsBaseAttrValueList;
 

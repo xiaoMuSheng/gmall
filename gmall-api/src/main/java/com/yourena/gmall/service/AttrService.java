@@ -2,6 +2,7 @@ package com.yourena.gmall.service;
 
 import com.yourena.gmall.bean.PmsBaseAttrInfo;
 import com.yourena.gmall.bean.PmsBaseAttrValue;
+import com.yourena.gmall.bean.PmsProductSaleAttr;
 
 import java.util.List;
 import java.util.Set;
@@ -12,8 +13,9 @@ public interface AttrService {
 
     List<PmsBaseAttrValue> attrValueList(String attrId);
 
-    void saveAttrInfo(PmsBaseAttrInfo pmsBaseAttrInfo);
+    String saveAttrInfo(PmsBaseAttrInfo pmsBaseAttrInfo);
 
     List<PmsBaseAttrInfo> getAttrValueListByValueId(Set<String> valueIdSet);
 
+    List<PmsProductSaleAttr> baseAttrInfoList();
 }

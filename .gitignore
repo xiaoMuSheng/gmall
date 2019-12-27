@@ -4,7 +4,10 @@
 
 # IntelliJ project files
 .idea
-*.iml
+.iml
 out
 gen
-!/.gitignore
+mvnw
+mvnw.cmd
+.mvn
+target

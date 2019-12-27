@@ -4,11 +4,6 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @author : 熊亚东
- * @description :
- * @date : 2019/7/20 | 14:15
- **/
 @Data
 public class OmsOrderItem implements Serializable {
 

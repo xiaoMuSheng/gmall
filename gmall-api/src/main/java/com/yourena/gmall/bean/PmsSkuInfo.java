@@ -2,14 +2,11 @@ package com.yourena.gmall.bean;
 
 import lombok.Data;
 
-import java.beans.Transient;
 import java.io.Serializable;
 import java.util.List;
 
 @Data
 public class PmsSkuInfo implements Serializable {
-
-
 
     private String id;
 

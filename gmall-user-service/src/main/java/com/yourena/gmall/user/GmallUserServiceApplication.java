@@ -5,11 +5,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableDubbo
+@EnableDubbo(scanBasePackages = "com.yourena.gmall")
 public class GmallUserServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GmallUserServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(GmallUserServiceApplication.class, args);
+    }
 
 }

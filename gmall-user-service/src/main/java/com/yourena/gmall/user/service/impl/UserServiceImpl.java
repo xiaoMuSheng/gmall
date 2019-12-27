@@ -6,12 +6,10 @@ import com.yourena.gmall.bean.UmsMemberReceiveAddress;
 import com.yourena.gmall.service.UserService;
 import com.yourena.gmall.user.mapper.UmsMemberMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
 @Service
-@Component
 public class UserServiceImpl implements UserService {
 
     @Autowired

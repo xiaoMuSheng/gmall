@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d73b5e6-95dc-4d98-8d64-56bcb6d3f2c8" name="Default Changelist" comment="提交部分工程代码">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ba288e41-0e58-4749-9cb8-425f6893ec77.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ba288e41-0e58-4749-9cb8-425f6893ec77/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/generator-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_autoconfigure_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_starter_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_tobato_fastdfs_client_1_26_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_searchbox_jest_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/HISTORY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/fastdfs-client-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/fastdfs-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/common/Base64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/common/IniFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/common/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/common/NameValuePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/ClientGlobal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/DownloadCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/DownloadStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/ProtoCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/ProtoStructDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/ServerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StorageClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StorageClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StorageServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StructBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StructGroupStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/StructStorageStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/TrackerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/TrackerGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/TrackerServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/UploadCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/java/org/csource/fastdfs/UploadStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/resources/fastdfs-client.properties.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/main/resources/fdfs_client.conf.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/common/IniFileReaderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/ClientGlobalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/DownloadFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/FdfsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/TestAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/TestAppender1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/TestClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/TestLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/java/org/csource/fastdfs/UploadLocalFileSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/resources/fastdfs-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/resources/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/fastdfs-client.properties.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/fdfs_client.conf.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/common/Base64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/common/IniFileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/common/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/common/NameValuePair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ClientGlobal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/DownloadCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/DownloadStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/FileInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ProtoCommon$RecvHeaderInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ProtoCommon$RecvPackageInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ProtoCommon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ProtoStructDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/ServerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StorageClient$UploadBuff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StorageClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StorageClient1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StorageServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StructBase$FieldInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StructBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StructGroupStat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/StructStorageStat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/TrackerClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/TrackerGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/TrackerServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/UploadCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/classes/org/csource/fastdfs/UploadStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/fastdfs-client-java-1.27-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/fastdfs-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/common/IniFileReaderTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/ClientGlobalTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/DownloadFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/FdfsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestAppender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestAppender1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestClient1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad$DownloadFileDiscard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad$DownloadThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad$Downloader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad$UploadThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad$Uploader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/TestLoad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java-master/target/test-classes/org/csource/fastdfs/UploadLocalFileSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/gmall-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/FastDFSFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/OmsCartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/OmsOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/OmsOrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PaymentInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsBaseAttrInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsBaseAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsBaseCatalog1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsBaseCatalog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsBaseCatalog3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsProductImage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsProductInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsProductSaleAttr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsProductSaleAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsProductVertifyRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsSearchParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsSearchSkuInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsSkuAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsSkuInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/PmsSkuSaleAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/UmsMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/bean/UmsMemberReceiveAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/AttrService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/CartService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/CatalogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/PaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/SearchService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/SkuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/SpuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/classes/com/yourena/gmall/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/gmall-manage-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsBaseAttrInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsBaseAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsBaseCatalog1Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsBaseCatalog2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsBaseCatalog3Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsProductInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/AttrServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/CatalogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/SpuMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/GmallManageServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsBaseAttrInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsBaseAttrValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsBaseCatalog1Mapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsBaseCatalog2Mapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsBaseCatalog3Mapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsProductInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/AttrServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/CatalogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/SpuMapperImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/test-classes/com/yourena/gmall/manage/GmallManageServiceApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/gmall-manage-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/yourena/gmall/manage/controller/AttrController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/yourena/gmall/manage/controller/CatalogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/yourena/gmall/manage/controller/SpuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/tracker.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/com/yourena/gmall/manage/GmallManageWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/com/yourena/gmall/manage/controller/AttrController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/com/yourena/gmall/manage/controller/CatalogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/com/yourena/gmall/manage/controller/SpuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/classes/tracker.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/target/test-classes/com/yourena/gmall/manage/GmallManageWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/gmall-user-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/classes/com/yourena/gmall/user/GmallUserServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/classes/com/yourena/gmall/user/mapper/UmsMemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/classes/com/yourena/gmall/user/mapper/UmsMemberReceiveAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/classes/com/yourena/gmall/user/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-service/target/test-classes/com/yourena/gmall/user/GmallUserServiceApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/gmall-user-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/target/classes/com/yourena/gmall/user/GmallUserWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/target/classes/com/yourena/gmall/user/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user-web/target/test-classes/com/yourena/gmall/user/GmallUserWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/gmall-user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/GmallUserApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/config/FDFSConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/controller/FastDFSClientUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/controller/FastDFSClientUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/mapper/UmsMemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/mapper/UmsMemberReceiveAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/com/yourena/gmall/user/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-user/target/test-classes/com/yourena/gmall/user/GmallUmsMemberApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/FastDFSFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/FastDFSFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsCartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsCartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsOrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/OmsOrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PaymentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PaymentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseAttrInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseAttrInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseAttrValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog1.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog2.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog3.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductSaleAttr.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductSaleAttr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductSaleAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductSaleAttrValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductVertifyRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsProductVertifyRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSearchParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSearchParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSearchSkuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSearchSkuInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuAttrValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuSaleAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsSkuSaleAttrValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/UmsMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/UmsMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/UmsMemberReceiveAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/UmsMemberReceiveAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/service/AttrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/service/AttrService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/service/CatalogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/service/CatalogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/GmallManageServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/GmallManageServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-web/src/test/java/com/yourena/gmall/manage/GmallManageWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-web/src/test/java/com/yourena/gmall/manage/GmallManageWebApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/yourena/gmall/user/GmallUserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/yourena/gmall/user/GmallUserServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/yourena/gmall/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-service/src/main/java/com/yourena/gmall/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/yourena/gmall/user/GmallUserWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/yourena/gmall/user/GmallUserWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/yourena/gmall/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-web/src/main/java/com/yourena/gmall/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-web-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-web-util/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gmall" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gmall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gmall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall-guigu: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gmall" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\workSpace\gmall\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\maven\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:/Program Files/maven/apache-maven-3.6.1" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/gmall.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VChmuWW0wlXrtzTGTOYK8Kw5DP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\gmall\gmal-parent" />
+      <recent name="D:\workSpace\gmall\gmall-partent" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yourena.gmall.manage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\gmall" />
+      <recent name="D:\workSpace\gmall\gmall-user-web\src\main\java\com\yourena\gmall\user" />
+      <recent name="D:\workSpace\gmall\gmall-user-service\src\main\java\com\yourena\gmall\user" />
+      <recent name="D:\workSpace\gmall\gmall-api\src\main\java\com\yourena\gmall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yourena.gmall.manage.mapper" />
+      <recent name="com.yourena.gmall.user.service.impl" />
+      <recent name="com.yourena.gmall.user.controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yourena.gmall.user.bean" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 17 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 17 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="gmall-manage-web" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GmallManageWebApplicationTests">
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="D:/OneDrive - JJXY/workSpace/gmall/gmall-user/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GmallManageWebApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yourena.gmall.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yourena.gmall.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.yourena.gmall.manage.GmallManageWebApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yourena.gmall.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yourena.gmall.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.yourena.gmall.manage.GmallManageWebApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/.." />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="gmall-user [mybatis-generator:generate...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/gmall-user" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.manage.GmallManageServiceApplication" />
+      <option name="DEBUG_MODE" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.manage.GmallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.user.GmallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.user.GmallUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.user.GmallUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.gmall-user [mybatis-generator:generate...]" />
+      <item itemvalue="Spring Boot.GmallUserServiceApplication" />
+      <item itemvalue="Spring Boot.GmallUserApplication" />
+      <item itemvalue="Spring Boot.GmallUserWebApplication" />
+      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
+      <item itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item itemvalue="JUnit.GmallManageWebApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.GmallManageWebApplicationTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GmallManageWebApplicationTests" />
+        <item itemvalue="JUnit.GmallManageWebApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.24803665" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d73b5e6-95dc-4d98-8d64-56bcb6d3f2c8" name="Default Changelist" comment="" />
+      <created>1576763146445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576763146445</updated>
+      <workItem from="1576763147805" duration="11370000" />
+      <workItem from="1576833580301" duration="24830000" />
+      <workItem from="1576908811394" duration="8909000" />
+      <workItem from="1576923323366" duration="5540000" />
+      <workItem from="1577003505871" duration="7557000" />
+      <workItem from="1577069159081" duration="20809000" />
+      <workItem from="1577160522923" duration="282000" />
+      <workItem from="1577160881605" duration="808000" />
+      <workItem from="1577163089683" duration="32926000" />
+      <workItem from="1577260643500" duration="16027000" />
+      <workItem from="1577284245514" duration="12188000" />
+      <workItem from="1577419019981" duration="372000" />
+      <workItem from="1577419471035" duration="896000" />
+      <workItem from="1577434030227" duration="584000" />
+      <workItem from="1577434702972" duration="14048000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1576764450911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576764450912</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交测试">
+      <created>1576764515147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576764515148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交部分工程代码">
+      <created>1577163590048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577163590048</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交部分工程代码">
+      <created>1577163956111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577163956111</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交部分工程代码">
+      <created>1577163967303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577163967303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <MESSAGE value="提交部分工程代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交部分工程代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="93" key="#Custom_Plugin_Repositories" timestamp="1577161584624">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#Custom_Plugin_Repositories/0.0.1600.870@0.0.1600.870" timestamp="1577161584624" />
+    <state x="430" y="72" key="#GmallManageServiceApplication" timestamp="1577273739119">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="430" y="72" key="#GmallManageServiceApplication/0.0.1600.870@0.0.1600.870" timestamp="1577273739119" />
+    <state x="430" y="72" key="#GmallUserWebApplication" timestamp="1577179001101">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="430" y="72" key="#GmallUserWebApplication/0.0.1600.870@0.0.1600.870" timestamp="1577179001101" />
+    <state x="392" y="93" key="#HTTP_Proxy" timestamp="1577161597109">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="93" key="#HTTP_Proxy/0.0.1600.870@0.0.1600.870" timestamp="1577161597109" />
+    <state x="392" y="94" key="#Project_Structure" timestamp="1577450764161">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="94" key="#Project_Structure/0.0.1600.870@0.0.1600.870" timestamp="1577450764161" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577358347930">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1577358347930" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1577444592939">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="517" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1577285816837" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870@0.0.1600.870" timestamp="1577444592939" />
+    <state x="358" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1577177060527">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="358" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.870@0.0.1600.870" timestamp="1577177060527" />
+    <state x="548" y="315" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1577177063608">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="548" y="315" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.870@0.0.1600.870" timestamp="1577177063608" />
+    <state x="227" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577199019546">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="227" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1577199019546" />
+    <state x="438" y="71" key="#xdebugger.evaluate" timestamp="1577285040233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="438" y="71" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1577285040233" />
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1577456910397">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577456910397" />
+    <state x="283" y="26" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1577164207098" />
+    <state width="481" height="466" key="DebuggerActiveHint" timestamp="1577285414876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="481" height="466" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1577285414876" />
+    <state x="152" y="74" key="DiffContextDialog" timestamp="1577164222179">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="152" y="74" key="DiffContextDialog/0.0.1600.870@0.0.1600.870" timestamp="1577164222179" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1577456910451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577456910451" />
+    <state width="1148" height="269" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1577456910451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577456910451" />
+    <state width="1148" height="269" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1577456910450">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577456910450" />
+    <state width="1148" height="269" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1577456910451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577456910451" />
+    <state width="1148" height="269" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="972" height="195" key="GridCell.Tab.1.bottom" timestamp="1577456520749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="195" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577456520749" />
+    <state width="1148" height="269" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state width="972" height="195" key="GridCell.Tab.1.center" timestamp="1577456520749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="195" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1577456520749" />
+    <state width="1148" height="269" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="972" height="195" key="GridCell.Tab.1.left" timestamp="1577456520749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="195" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1577456520749" />
+    <state width="1148" height="269" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1577454676798" />
+    <state width="972" height="195" key="GridCell.Tab.1.right" timestamp="1577456520749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="195" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1577456520749" />
+    <state width="1148" height="269" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state width="972" height="269" key="GridCell.Tab.2.bottom" timestamp="1577455775039">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="269" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
+    <state width="1148" height="269" key="GridCell.Tab.2.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state width="972" height="269" key="GridCell.Tab.2.center" timestamp="1577455775039">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="269" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
+    <state width="1148" height="269" key="GridCell.Tab.2.center/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state width="972" height="269" key="GridCell.Tab.2.left" timestamp="1577455775039">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="269" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
+    <state width="1148" height="269" key="GridCell.Tab.2.left/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state width="972" height="269" key="GridCell.Tab.2.right" timestamp="1577455775039">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="972" height="269" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
+    <state width="1148" height="269" key="GridCell.Tab.2.right/0.0.1600.870@0.0.1600.870" timestamp="1577454676799" />
+    <state x="380" y="170" key="IDE.errors.dialog" timestamp="1577450776448">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="380" y="170" key="IDE.errors.dialog/0.0.1600.870@0.0.1600.870" timestamp="1577450776448" />
+    <state x="294" y="20" key="SettingsEditor" timestamp="1577437474126">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="251" y="17" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1577241872480" />
+    <state x="294" y="20" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1577437474126" />
+    <state x="392" y="168" key="Vcs.Push.Dialog.v2" timestamp="1577164237891">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1577164237891" />
+    <state x="592" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577177688521">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="592" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.870@0.0.1600.870" timestamp="1577177688521" />
+    <state x="347" y="115" width="786" height="600" key="find.popup" timestamp="1577196729619">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="347" y="115" width="786" height="600" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1577196729619" />
+    <state x="407" y="135" width="786" height="600" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1577193470621" />
+    <state x="391" y="137" key="new project wizard" timestamp="1577181745001">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="391" y="137" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1577181745001" />
+    <state x="389" y="168" key="run.anything.popup" timestamp="1577287050405">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="168" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1577287050405" />
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1577182135824" />
+    <state x="395" y="154" width="574" height="576" key="search.everywhere.popup" timestamp="1577198586660">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="395" y="154" width="574" height="576" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1577198586660" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1577182147213" />
+  </component>
+</project>

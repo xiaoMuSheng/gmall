@@ -1,17 +1,10 @@
 package com.yourena.gmall.bean;
 
-
-
 import lombok.Data;
 
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author : 熊亚东
- * @description :
- * @date : 2019/7/22 | 16:51
- **/
 @Data
 public class PaymentInfo implements Serializable {
 
@@ -37,4 +30,4 @@ public class PaymentInfo implements Serializable {
 
     private Date callbackTime;
 
-     }
+}
