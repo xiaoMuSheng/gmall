@@ -1,5 +1,6 @@
 package com.yourena.gmall.manage;
 
+import com.yourena.gmall.GlobalConstant;
 import org.csource.common.MyException;
 import org.csource.fastdfs.ClientGlobal;
 import org.csource.fastdfs.StorageClient;
@@ -16,22 +17,23 @@ import java.io.IOException;
 @SpringBootTest
 class GmallManageWebApplicationTests {
 
-    private String path;
-
     @Test
     void contextLoads() throws IOException, MyException {
 
-        path = GmallManageWebApplication.class.getResource("/tracker.conf").getPath();
-        ClientGlobal.init(path);
+        StringBuilder url = new StringBuilder(GlobalConstant.Public.FDFS_ADDRESS+"/");
+
+        String tracker = GmallManageWebApplication.class.getResource("/tracker.conf").getPath();
+        ClientGlobal.init(tracker);
         TrackerClient trackerClient = new TrackerClient();
         TrackerServer trackerServer = trackerClient.getConnection();
         StorageClient storageClient = new StorageClient(trackerServer, null);
-        String organFilename = "C:/Users/Administrator/Desktop/1.png";
-        String[] uploadFile = storageClient.upload_file(organFilename, "png", null);
-        for (String s : uploadFile) {
-            System.out.println("s=" + s);
-        }
+        String[] uploadFile = storageClient.upload_file("C:/Users/Administrator/Desktop/1.png", "png", null);
 
+        url.append(uploadFile[0]);
+        url.append("/");
+        url.append(uploadFile[1]);
+
+        System.out.println(url);
     }
 
 }

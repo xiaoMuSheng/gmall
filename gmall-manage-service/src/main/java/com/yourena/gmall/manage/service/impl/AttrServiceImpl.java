@@ -1,6 +1,7 @@
 package com.yourena.gmall.manage.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
+import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 import com.yourena.gmall.bean.PmsBaseAttrInfo;
 import com.yourena.gmall.bean.PmsBaseAttrValue;
 import com.yourena.gmall.bean.PmsProductSaleAttr;
@@ -10,6 +11,7 @@ import com.yourena.gmall.service.AttrService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
@@ -22,10 +24,23 @@ public class AttrServiceImpl implements AttrService {
 
     @Autowired
     private PmsBaseAttrInfoMapper pmsBaseAttrInfoMapper;
+    private List<PmsBaseAttrValue> pmsBaseAttrValues;
+
 
     @Override
     public List<PmsBaseAttrInfo> attrInfoList(String catalog3Id) {
-        return pmsBaseAttrInfoMapper.selectListPmsBaseAttrInfo(catalog3Id);
+        UpdateWrapper<PmsBaseAttrValue> wrapper = new UpdateWrapper<>();
+
+        List<PmsBaseAttrInfo> pmsBaseAttrInfoList = pmsBaseAttrInfoMapper.selectListPmsBaseAttrInfo(catalog3Id);
+        for (PmsBaseAttrInfo pmsBaseAttrInfo : pmsBaseAttrInfoList) {
+            List<PmsBaseAttrValue> pmsBaseAttrValueList = new ArrayList<>();
+            PmsBaseAttrValue pmsBaseAttrValue = new PmsBaseAttrValue();
+            pmsBaseAttrValue.setAttrId(pmsBaseAttrInfo.getId());
+            pmsBaseAttrValues = pmsBaseAttrValueMapper.selectList(wrapper);
+            pmsBaseAttrInfo.setPmsBaseAttrValueList(pmsBaseAttrValues);
+
+        }
+        return pmsBaseAttrInfoList;
     }
 
     @Override
