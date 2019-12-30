@@ -13,4 +13,4 @@ public class PmsBaseCatalog1 implements Serializable {
     private String name;
     private List<PmsBaseCatalog2> catalog2s;
 
-     }
+}
