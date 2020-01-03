@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.dubbo.application",
+      "type": "java.lang.String",
+      "description": "Description for spring.dubbo.application."
+  }
+] }

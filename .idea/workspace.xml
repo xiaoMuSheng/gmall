@@ -1,67 +1,320 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d73b5e6-95dc-4d98-8d64-56bcb6d3f2c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/util/RedisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/util/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail-service-util/target/classes/META-INF/gmail-service-util.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/util/RedisUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/util/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/gmall-item-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/GmallItemWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/test/java/com/yourena/gmall/item/GmallItemWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/GmallItemWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/controller/ItemController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/test-classes/com/yourena/gmall/item/GmallItemWebApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsSkuAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsSkuInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsSkuSaleAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/SkuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/GmallManageServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsSkuAttrValueMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsSkuInfoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsSkuSaleAttrValueMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/SkuServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3d73b5e6-95dc-4d98-8d64-56bcb6d3f2c8" name="Default Changelist" comment="提交部分工程代码">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/gmall.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/gmall.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/target/gmall.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/target/gmall.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-common-util/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/ie10-viewport-bug-workaround.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/jumbotron-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/lenovo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/css/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/back-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/closebtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/detail_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/ewm_icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/goumaizixun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/new_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/show3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/images/showVideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/ie8-responsive-file-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/checkedstand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/finishCart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/login_buy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/logistics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/QQ-weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/atguigu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/buttom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/cart_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/dlrb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/foot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/huawei1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/icon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/icon_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/icon_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/img_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/jd.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/jia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/jian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/lec1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/list_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/list_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/mai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/mail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/mail_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/menPro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/msg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/msgImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/order-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/pay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/phone-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/qiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/qr-coagent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/rg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/ruo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/search_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/shop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/shop_des.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/shouyintai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/star_chose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/top_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/images/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/static/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/indexinner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/ie10-viewport-bug-workaround.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/jumbotron-narrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/lenovo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/css/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/back-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/closebtn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/detail_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/ewm_icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/goumaizixun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/new_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/show3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/images/showVideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/ie8-responsive-file-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/checkedstand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/finishCart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/login_buy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/logistics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/QQ-weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/atguigu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/buttom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/cart_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/dlrb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/foot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/huawei1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/icon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/icon_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/icon_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/img_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/jd.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/jd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/jia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/jian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/lec1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/list_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/list_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/login-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/mai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/mail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/mail_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/menPro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/msg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/msgImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/order-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/pay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/phone-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/qiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/qr-coagent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/rg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/ruo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/search_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/shop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/shop_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/shop_des.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/shouyintai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/star_chose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/top_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/images/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/static/js/jquery-1.7.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/templates/indexinner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/templates/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/redissonTest/RedissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/redissonTest/service/RedissonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/redissonTest/service/RedissonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/GmallManageServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/gmail-service-util.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog1.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/yourena/gmall/bean/PmsBaseCatalog1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsProductImageMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper/PmsProductImageMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/util/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/manage/util/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/util/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/src/main/java/com/yourena/gmall/manage/util/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/util/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/manage/util/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/util/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmail-service-util/target/classes/com/yourena/gmall/manage/util/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/gmall-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/gmall-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/gmall-item-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/gmall-item-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/GmallItemWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/GmallItemWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/src/main/java/com/yourena/gmall/item/controller/ItemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/src/test/java/com/yourena/gmall/item/GmallItemWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/src/test/java/com/yourena/gmall/item/GmallItemWebApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/GmallItemWebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/GmallItemWebApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/com/yourena/gmall/item/controller/ItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item-web/target/test-classes/com/yourena/gmall/item/GmallItemWebApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item-web/target/test-classes/com/yourena/gmall/item/GmallItemWebApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/gmall-manage-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/gmall-manage-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/GmallManageServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/GmallManageServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/SkuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/service/impl/SkuServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-manage-service/src/test/java/com/yourena/gmall/manage/GmallManageServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/src/test/java/com/yourena/gmall/manage/GmallManageServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/GmallManageServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsProductImageMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/mapper/PmsProductImageMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/GmallManageServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/SkuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/target/classes/com/yourena/gmall/manage/service/impl/SkuServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-manage-service/target/test-classes/com/yourena/gmall/manage/GmallManageServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-service/target/test-classes/com/yourena/gmall/manage/GmallManageServiceApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-manage-web/gmall-manage-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-manage-web/gmall-manage-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-service/gmall-user-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-service/gmall-user-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-user-web/gmall-user-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user-web/gmall-user-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-web/target/classes/com/yourena/gmall/user/GmallUserWebApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-user-web/target/classes/com/yourena/gmall/user/controller/UserController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-user/gmall-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-user/gmall-user.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-web-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-web-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,25 +444,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/yourena/gmall/manage/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.yourena.gmall.user.bean" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workSpace\gmall\gmal-parent" />
+      <recent name="D:\workSpace\gmall\gmall-partent" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.yourena.gmall.manage" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workSpace\gmall" />
       <recent name="D:\workSpace\gmall\gmall-manage-service\src\main\java\com\yourena\gmall\manage\mapper" />
       <recent name="D:\workSpace\gmall\gmall-manage-service\src\main\java\com\yourena\gmall\manage\service\impl" />
       <recent name="D:\workSpace\gmall\gmall-item-web\src\main\resources" />
-      <recent name="D:\workSpace\gmall" />
       <recent name="D:\workSpace\gmall\gmall-user-web\src\main\java\com\yourena\gmall\user" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -218,9 +472,9 @@
       <recent name="com.yourena.gmall.user.service.impl" />
       <recent name="com.yourena.gmall.user.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workSpace\gmall\gmal-parent" />
-      <recent name="D:\workSpace\gmall\gmall-partent" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yourena.gmall.manage.redissonTest.Service" />
+      <recent name="com.yourena.gmall.user.bean" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -244,7 +498,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GmallManageServiceApplicationTests.contextLoads">
+  <component name="RunManager" selected="Spring Boot.GmallManageServiceApplication">
     <configuration default="true" type="lua.app" factoryName="Lua Application">
       <option name="program" value="lua.exe" />
       <option name="file" value="" />
@@ -286,21 +540,6 @@
       <option name="MAIN_CLASS_NAME" value="com.yourena.gmall.manage.GmallManageServiceApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GmallManageWebApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gmall-manage-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yourena.gmall.manage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.yourena.gmall.manage" />
-      <option name="MAIN_CLASS_NAME" value="com.yourena.gmall.manage.GmallManageWebApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -377,19 +616,19 @@
       <module name="gmall-item-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.item.GmallItemWebApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="gmall-manage-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yourena.gmall.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yourena.gmall.manage.GmallManageServiceApplication" />
-      <option name="DEBUG_MODE" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,23 +663,22 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.GmallManageWebApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.GmallManageWebApplicationTests" />
-      <item itemvalue="Maven.gmall-user [mybatis-generator:generate...]" />
-      <item itemvalue="Spring Boot.GmallUserServiceApplication" />
-      <item itemvalue="Spring Boot.GmallUserApplication" />
-      <item itemvalue="Spring Boot.GmallUserWebApplication" />
-      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
-      <item itemvalue="Spring Boot.GmallManageWebApplication" />
-      <item itemvalue="Spring Boot.GmallItemWebApplication" />
       <item itemvalue="JUnit.GmallManageServiceApplicationTests.contextLoads" />
       <item itemvalue="JUnit.GmallManageServiceApplicationTests" />
+      <item itemvalue="Maven.gmall-user [mybatis-generator:generate...]" />
+      <item itemvalue="Spring Boot.GmallUserWebApplication" />
+      <item itemvalue="Spring Boot.GmallUserServiceApplication" />
+      <item itemvalue="Spring Boot.GmallUserApplication" />
+      <item itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item itemvalue="Spring Boot.GmallItemWebApplication" />
+      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.GmallManageServiceApplication" />
         <item itemvalue="JUnit.GmallManageServiceApplicationTests.contextLoads" />
         <item itemvalue="JUnit.GmallManageServiceApplicationTests" />
         <item itemvalue="JUnit.GmallManageWebApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.GmallManageWebApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -448,17 +686,12 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.24803665" />
+          <option name="contentProportion" value="0.2696335" />
           <treeState>
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -498,7 +731,11 @@
       <workItem from="1577434030227" duration="584000" />
       <workItem from="1577434702972" duration="48570000" />
       <workItem from="1577617992595" duration="2762000" />
-      <workItem from="1577623018774" duration="9617000" />
+      <workItem from="1577623018774" duration="13038000" />
+      <workItem from="1577703916587" duration="11865000" />
+      <workItem from="1577845818528" duration="807000" />
+      <workItem from="1577849672435" duration="6764000" />
+      <workItem from="1578022694080" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="提交测试">
       <created>1576764450911</created>
@@ -549,7 +786,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577528388781</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="提交部分工程代码">
+      <created>1577697835851</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577697835852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,10 +868,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="392" y="94" key="#Project_Structure/0.0.1600.870@0.0.1600.870" timestamp="1577693493950" />
-    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577624295319">
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577697963803">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1577624295319" />
+    <state x="254" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.870@0.0.1600.870" timestamp="1577697963803" />
     <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1577524440942">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -637,10 +881,10 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="358" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.870@0.0.1600.870" timestamp="1577177060527" />
-    <state x="548" y="294" width="504" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577697786558">
+    <state x="548" y="294" width="504" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577873808865">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="548" y="294" width="504" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.870@0.0.1600.870" timestamp="1577697786558" />
+    <state x="548" y="294" width="504" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.870@0.0.1600.870" timestamp="1577873808865" />
     <state x="548" y="315" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1577177063608">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -653,11 +897,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="71" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1577285040233" />
-    <state x="283" y="26" key="CommitChangelistDialog2" timestamp="1577528385561">
+    <state x="283" y="26" key="CommitChangelistDialog2" timestamp="1578022950736">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="242" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577456990945" />
-    <state x="283" y="26" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1577528385561" />
+    <state x="283" y="26" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1578022950736" />
     <state width="481" height="466" key="DebuggerActiveHint" timestamp="1577285414876">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -670,101 +914,105 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1577586458450" />
-    <state width="1557" height="179" key="GridCell.Tab.0.bottom" timestamp="1577697266727">
+    <state width="1115" height="212" key="GridCell.Tab.0.bottom" timestamp="1577885024264">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577460961985" />
-    <state width="1557" height="179" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577697266727" />
-    <state width="1557" height="179" key="GridCell.Tab.0.center" timestamp="1577697266726">
+    <state width="944" height="119" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577885024264" />
+    <state width="1115" height="212" key="GridCell.Tab.0.center" timestamp="1577885024264">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577460961984" />
-    <state width="1557" height="179" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1577697266726" />
-    <state width="1557" height="179" key="GridCell.Tab.0.left" timestamp="1577697266726">
+    <state width="944" height="119" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1577802296820" />
+    <state width="1115" height="212" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1577885024264" />
+    <state width="1115" height="212" key="GridCell.Tab.0.left" timestamp="1577885024264">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577460961984" />
-    <state width="1557" height="179" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1577697266726" />
-    <state width="1557" height="179" key="GridCell.Tab.0.right" timestamp="1577697266726">
+    <state width="944" height="119" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1577802296820" />
+    <state width="1115" height="212" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1577885024264" />
+    <state width="1115" height="212" key="GridCell.Tab.0.right" timestamp="1577885024264">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577460961985" />
-    <state width="1557" height="179" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1577697266726" />
-    <state width="1148" height="280" key="GridCell.Tab.1.bottom" timestamp="1577695939285">
+    <state width="944" height="119" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1577885024264" />
+    <state width="1115" height="212" key="GridCell.Tab.1.bottom" timestamp="1577885024265">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="972" height="195" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577457075557" />
-    <state width="1148" height="280" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577695939285" />
-    <state width="1148" height="280" key="GridCell.Tab.1.center" timestamp="1577695939285">
+    <state width="944" height="119" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.1.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577885024265" />
+    <state width="1115" height="212" key="GridCell.Tab.1.center" timestamp="1577885024265">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="972" height="195" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1577457075557" />
-    <state width="1148" height="280" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1577695939285" />
-    <state width="1148" height="280" key="GridCell.Tab.1.left" timestamp="1577695939285">
+    <state width="944" height="119" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.1.center/0.0.1600.870@0.0.1600.870" timestamp="1577885024265" />
+    <state width="1115" height="212" key="GridCell.Tab.1.left" timestamp="1577885024265">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="972" height="195" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1577457075557" />
-    <state width="1148" height="280" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1577695939284" />
-    <state width="1148" height="280" key="GridCell.Tab.1.right" timestamp="1577695939285">
+    <state width="944" height="119" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.1.left/0.0.1600.870@0.0.1600.870" timestamp="1577885024265" />
+    <state width="1115" height="212" key="GridCell.Tab.1.right" timestamp="1577885024265">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="972" height="195" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1577457075557" />
-    <state width="1148" height="280" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1577695939285" />
-    <state width="1148" height="280" key="GridCell.Tab.2.bottom" timestamp="1577625590488">
+    <state width="944" height="119" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1577802296821" />
+    <state width="1115" height="212" key="GridCell.Tab.1.right/0.0.1600.870@0.0.1600.870" timestamp="1577885024265" />
+    <state width="1115" height="212" key="GridCell.Tab.2.bottom" timestamp="1577885024181">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="972" height="269" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
-    <state width="1148" height="280" key="GridCell.Tab.2.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577625590488" />
-    <state width="1148" height="280" key="GridCell.Tab.2.center" timestamp="1577625590488">
+    <state width="1115" height="212" key="GridCell.Tab.2.bottom/0.0.1600.870@0.0.1600.870" timestamp="1577885024181" />
+    <state width="1115" height="212" key="GridCell.Tab.2.center" timestamp="1577885024180">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="972" height="269" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
-    <state width="1148" height="280" key="GridCell.Tab.2.center/0.0.1600.870@0.0.1600.870" timestamp="1577625590488" />
-    <state width="1148" height="280" key="GridCell.Tab.2.left" timestamp="1577625590488">
+    <state width="1115" height="212" key="GridCell.Tab.2.center/0.0.1600.870@0.0.1600.870" timestamp="1577885024180" />
+    <state width="1115" height="212" key="GridCell.Tab.2.left" timestamp="1577885024180">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="972" height="269" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
-    <state width="1148" height="280" key="GridCell.Tab.2.left/0.0.1600.870@0.0.1600.870" timestamp="1577625590488" />
-    <state width="1148" height="280" key="GridCell.Tab.2.right" timestamp="1577625590488">
+    <state width="1115" height="212" key="GridCell.Tab.2.left/0.0.1600.870@0.0.1600.870" timestamp="1577885024180" />
+    <state width="1115" height="212" key="GridCell.Tab.2.right" timestamp="1577885024181">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="972" height="269" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1577455775039" />
-    <state width="1148" height="280" key="GridCell.Tab.2.right/0.0.1600.870@0.0.1600.870" timestamp="1577625590488" />
+    <state width="1115" height="212" key="GridCell.Tab.2.right/0.0.1600.870@0.0.1600.870" timestamp="1577885024181" />
     <state x="380" y="170" key="IDE.errors.dialog" timestamp="1577450776448">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="380" y="170" key="IDE.errors.dialog/0.0.1600.870@0.0.1600.870" timestamp="1577450776448" />
-    <state x="294" y="20" key="SettingsEditor" timestamp="1577437474126">
+    <state x="294" y="20" key="SettingsEditor" timestamp="1577873104410">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="251" y="17" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1577241872480" />
-    <state x="294" y="20" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1577437474126" />
+    <state x="294" y="20" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1577873104410" />
     <state x="392" y="168" key="Vcs.Push.Dialog.v2" timestamp="1577164237891">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="392" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1577164237891" />
-    <state x="599" y="213" key="chooseDestDirectoryDialog" timestamp="1577697248410">
+    <state x="599" y="213" key="chooseDestDirectoryDialog" timestamp="1577873406714">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="599" y="213" key="chooseDestDirectoryDialog/0.0.1600.870@0.0.1600.870" timestamp="1577697248410" />
+    <state x="599" y="213" key="chooseDestDirectoryDialog/0.0.1600.870@0.0.1600.870" timestamp="1577873406714" />
+    <state x="327" y="96" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577873164050">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="327" y="96" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.870@0.0.1600.870" timestamp="1577873164050" />
     <state x="592" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577177688521">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="592" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.870@0.0.1600.870" timestamp="1577177688521" />
-    <state x="407" y="135" width="786" height="600" key="find.popup" timestamp="1577690672305">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="347" y="115" width="786" height="600" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1577196729619" />
-    <state x="407" y="135" width="786" height="600" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1577690672305" />
-    <state x="431" y="91" width="874" height="597" key="new project wizard" timestamp="1577623765518">
-      <screen x="0" y="0" width="1600" height="870" />
-    </state>
-    <state x="431" y="91" width="874" height="597" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1577623765518" />
-    <state x="389" y="168" key="run.anything.popup" timestamp="1577287050405">
+    <state x="347" y="115" width="786" height="600" key="find.popup" timestamp="1577715895658">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="347" y="115" width="786" height="600" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1577715895658" />
+    <state x="407" y="135" width="786" height="600" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1577699968217" />
+    <state x="431" y="91" width="874" height="597" key="new project wizard" timestamp="1577776522809">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="431" y="91" width="874" height="597" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1577776522809" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1577874859171">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
     <state x="389" y="168" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1577287050405" />
-    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1577182135824" />
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1577874859171" />
     <state x="395" y="154" width="672" height="576" key="search.everywhere.popup" timestamp="1577460831035">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
